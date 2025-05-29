@@ -1,5 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=0:F8E3E3,50:FADADD,100:FFE4F0&height=200&section=header&text=chcch's%20GitHub&fontColor=4F4F4F
-)
+![head](https://capsule-render.vercel.app/api?type=venom&color=0:F4E6DC,100:F4E6DC&height=200&section=header&text=chcch's%20GitHub&fontColor=5A3E36)
+
 
 <div align="center">
   <h3>✨ Tech Stack ✨</h3>
