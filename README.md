@@ -1,6 +1,5 @@
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/ba1a23e0-a210-4c17-9815-c08a2ef72667" />
-</div>
+![header](https://capsule-render.vercel.app/api?type=venom&color=0:F8E3E3,50:FADADD,100:FFE4F0&height=200&section=header&text=chcch's%20GitHub&fontColor=4F4F4F
+)
 
 <div align="center">
   <h3>✨ Tech Stack ✨</h3>
